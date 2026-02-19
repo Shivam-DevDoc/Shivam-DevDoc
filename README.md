@@ -28,12 +28,6 @@ Currently working in an enterprise environment and actively looking to grow in a
 ![Git](https://img.shields.io/badge/Git-0D1117?style=flat&logo=git)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0D1117?style=flat&logo=githubactions)
 
----
-
-
-### 📈 GitHub Stats
-
-![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shivam-DevDoc&show_icons=true&theme=github_dark&hide_title=true)
 
 ---
 
@@ -41,4 +35,4 @@ Currently working in an enterprise environment and actively looking to grow in a
 
 - LinkedIn: https://linkedin.com/in/your-linkedin
 - Portfolio: https://your-portfolio-link
-- Email: your@email.com
+- Email: shiwamsingh50@gmail.com
