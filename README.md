@@ -33,7 +33,7 @@ Currently working in an enterprise environment and actively looking to grow in a
 
 ### 📈 GitHub Stats
 
-![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shivam-theDOC&show_icons=true&theme=github_dark&hide_title=true)
+![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shivam-DevDoc&show_icons=true&theme=github_dark&hide_title=true)
 
 ---
 
